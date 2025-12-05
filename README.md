@@ -12,8 +12,8 @@
 
 # Ejercicios Practicos
 
-| Fecha       | Actividad                                               | Descripción breve               | Documentación | codigo  |
+| Fecha       | Actividad                                               | Evidencias              | Documentación | codigo  |
 |-------------|----------------------------------------------------------|----------------------------------|---------------|--------|
-| 2025-12-02  | Simulador DOM con Árbol en Java Swing                    | Trabajo en NetBeans Swing        | [Enlace]()       | [Enlace](https://github.com/Fernando44PF/Ejercicios_Practicos2/tree/main/Ejercicio1) |
-| 2025-12-03  | Aplicación dinámica para comprender conceptos de árboles | Trabajo en NetBeans con Swing    | [Enlace]()       | [Enlace](https://github.com/Fernando44PF/Ejercicios_Practicos2/tree/main/Ejercicio2) |
-| 2025-12-04  | Aplicación donde se usa conjunto de Java                 | Trabajo en NetBeans con Swing    | [Enlace]()       | [Enlace](https://github.com/Fernando44PF/Ejercicios_Practicos2/tree/main/Ejercicio3) |
+| 2025-12-02  | Simulador DOM con Árbol en Java Swing                    |   [Enlace]()      | [Enlace]()       | [Enlace](https://github.com/Fernando44PF/Ejercicios_Practicos2/tree/main/Ejercicio1) |
+| 2025-12-03  | Aplicación dinámica para comprender conceptos de árboles |  [Enlace]()    | [Enlace]()       | [Enlace](https://github.com/Fernando44PF/Ejercicios_Practicos2/tree/main/Ejercicio2) |
+| 2025-12-04  | Aplicación donde se usa conjunto de Java                 |   [Enlace]()    | [Enlace]()       | [Enlace](https://github.com/Fernando44PF/Ejercicios_Practicos2/tree/main/Ejercicio3) |
